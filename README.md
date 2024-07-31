@@ -1,6 +1,7 @@
 # Awesome Reinforcement Learning for Traffic Signal Control
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/DaRL-LibSignal/awesome-RL-traffic-signals) [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/DaRL-LibSignal/awesome-RL-traffic-signals) ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=DaRL-LibSignal.awesome-RL-traffic-signals&left_text=Visitors)  ![GitHub stars](https://img.shields.io/github/stars/DaRL-LibSignal/awesome-RL-traffic-signals?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/DaRL-LibSignal/awesome-RL-traffic-signals?color=9cf) [![GitHub license](https://img.shields.io/github/license/DaRL-LibSignal/awesome-RL-traffic-signals)](https://github.com/DaRL-LibSignal/awesome-RL-traffic-signals/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/DaRL-LibSignal/awesome-RL-traffic-signals) [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/DaRL-LibSignal/awesome-RL-traffic-signals) ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=DaRL-LibSignal.awesome-RL-traffic-signals&left_text=Visitors)  ![GitHub Repo stars](https://img.shields.io/github/stars/DaRL-LibSignal/awesome-RL-traffic-signals?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/DaRL-LibSignal/awesome-RL-traffic-signals?style=plastic) ![GitHub License](https://img.shields.io/github/license/DaRL-LibSignal/awesome-RL-traffic-signals?style=plastic)
+ 
 
 
 This is a collection of research papers for **Traffic Signal Control with RL**.
